@@ -1,5 +1,6 @@
 # sell
 SELL - Self directed english language learning
 
-[Topics](topics.md)
-[Criterias for topic selection](criteria.md)
+* [dates](dates.md)
+* [Topics](topics.md)
+* [Criterias for topic selection](criteria.md)
