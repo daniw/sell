@@ -18,7 +18,7 @@ on tuesday 6 October 2015.
 - How unique is 'LuXeria' as a community (in switzerland, Europe, Worldwide)?
 
 ### Psychological or sociological dimension & analysis
-- Modern (IRC, Web, Wiki) vs. classis (meetings, dinner, events, outgoing)
+- Modern (IRC, Web, Wiki) vs. classic (meetings, dinner, events, outgoing)
 - Man vs. machine
 
 ### Members
@@ -29,15 +29,15 @@ on tuesday 6 October 2015.
 ## General information on the trial presentation (attestation)
 - The presentation takes place on the 3 November 2015
 - The presentation will take about 30 minutes total where
-    - 4 minutes for are designated for questions and answers to the audience
+    - 4 minutes are designated for questions and answers to the audience
     - 26 = 2 x 13 minutes are designated per lecturer
-- Prepare Questions and/or start a discussion for the finalisation
+- Prepare questions and/or start a discussion for the finalisation
 - The audience is the SELL class
 
 ## General information on the final presentation (MEP)
 - The presentation will take about 18 minutes
     - 2 x 9 minutes per lecturer
     - additional time for questions and answers (if needed)
-- The audience consists of the person
+- The audience consists of
     - The SELL professor
-    - Guest (female, specialized in literature, retired)
+    - Guest attendee (female, specialized in literature, retired)
