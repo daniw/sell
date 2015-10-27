@@ -58,14 +58,24 @@
 
 - [B] Q&A
     - Why not a hackerspace?
+        - No permanent access to room
     - Political engagements?
+        - we declared ourself as a politically and confessionally neutral association
     - Group projects?
+        - Yes, software and hardware projects
     - Achievements?
-    - Flops?
+        - Infrastructure
     - Income sources?
+        - membership fees
     - Private relations? Social group?
+        - There are members that know each other privately
     - Are there hackers?
-    - What's the meaning of "LuXeria"?
-    - Why this name?
+        - ...
+    - What's the meaning of "LuXeria"? , Why this name?
+        - Lu: Lucerne 
+        - X:  Open source, free software, Linux
+        - eris: social
     - Are there visitors? And if so, who are they?
-    - How to become a member and who should / shuoldn't become a member?
+        - Yes, people looking for support, people interested in a membership and representitives of other organisations
+    - Who should / shuoldn't become a member?
+        - Everyone interested in technology and willing to share the fascination
