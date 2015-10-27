@@ -21,19 +21,19 @@
 - Introduction
 
 ## Plot
-- Introduction
-    - Who are we?
-    - Recipe -> Free Software -> Linux -> LuXeria
-    - What is LuXeria
-- Founding
+- [M] Introduction
+    - [D] Who are we?
+    - [E] Recipe -> Free Software -> Linux -> LuXeria
+    - [E] What is LuXeria
+- [E] Founding
     - Computer Science Courses 2010
     - Association (inspired by LugBE)
     - Location
-- Evolution
+- [E] Evolution
     - Hype
     - Decay
     - Reorientation
-- Members
+- [B] Members
     - new members -> new topics
     - exploring beyond Linux
         - professions
@@ -41,7 +41,7 @@
         - degrees (apprentice, student, professional)
     - introducing electronics and laboratories
     - Knowledge base
-- Interaction / Communication
+- [D] Interaction / Communication
     - Weekly meeting
         - Meet-up
         - dinner
@@ -52,11 +52,11 @@
     - Events
         - Chaos communication congress / camp
         - Special occasions
-- Uniqueness
+- [D] Uniqueness
     - similar groups / associations
     - differences
 
-- Q&A
+- [B] Q&A
     - Why not a hackerspace?
     - Political engagements?
     - Group projects?
