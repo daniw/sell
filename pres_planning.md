@@ -33,19 +33,19 @@
     - Hype
     - Decay
     - Reorientation
-- [B] Members
+- [E] Members
     - new members -> new topics
     - exploring beyond Linux
         - professions
         - age
         - degrees (apprentice, student, professional)
     - introducing electronics and laboratories
-    - Knowledge base
 - [D] Interaction / Communication
     - Weekly meeting
         - Meet-up
         - dinner
         - workshops
+        - Knowledge base
     - Chat
     - Wiki
     - Webpage
