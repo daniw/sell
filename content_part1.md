@@ -11,7 +11,8 @@
     - [E] No, it's a birthday cake, you must not use it for  christmas
     - [D] Then i will add some powdered sugar
     - [E] No! you are not allowed to change the recipe
-    - [E] And you can of coarse eat the cake
+    - [D] Then i will bring it to a birthday party tomorrow
+    - [E] And you can of course eat the cake
     - [E] But you are not allowed to share it with someone else
 - 4 freedoms
     - use for any purpose
