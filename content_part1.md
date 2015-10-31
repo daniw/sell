@@ -5,7 +5,7 @@
 
 ## Introduction (pie scene)
 - pie
-    - [E] Would yo like this cake?
+    - [E] Would you like this cake?
     - [D] Thank you
     - [D] use for christmas
     - [E] No, it's a birthday cake, you must not use it for  christmas
