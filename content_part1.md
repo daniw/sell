@@ -14,6 +14,7 @@
     - [D] Then i will bring it to a birthday party tomorrow
     - [E] And you can of course eat the cake
     - [E] But you are not allowed to share it with someone else
+    - [D] that's weird
 - 4 freedoms
     - use for any purpose
     - perform changes
