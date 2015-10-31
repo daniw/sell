@@ -10,23 +10,24 @@ Daniel
     - Who are we?
         - Names
         - electrical engineering
-        - interruption by Ervin
+    - topic of todays presentation is LuXeria ...
+    - ... interruption by Ervin
     - Accept offer from Ervin
     - Try to change recipe
     - Handover to Ervin
 
 ## Interaction / Communication
-- Chat
-    - IRC
-- E-Mail
-    - important stuff
-    - organisation
 - Weekly meeting
     - meet-up in a physical place
         - course room
     - order dinner
     - talks
     - workshops
+- Chat
+    - IRC
+- E-Mail
+    - important stuff
+    - organisation
 - Wiki
     - talks
     - projects
@@ -35,7 +36,14 @@ Daniel
 
 ## Uniqueness
 - similar groups / associations
+    - CCC
+    - linux user groups
+    - hackerspaces
 - differences
+    - no hackerspace
+    - no own room
+    - no 24/7 access
+    - not restricted to linux only
 
 ## End
 - We would really like to offer you a piece of pie
