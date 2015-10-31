@@ -79,5 +79,5 @@
     - Are there visitors? And if so, who are they?
         - Yes, people looking for support, people interested in a membership 
           and representitives of other organisations
-    - Who should / shuoldn't become a member?
+    - Who should / shouldn't become a member?
         - Everyone interested in technology and willing to share the fascination
