@@ -3,30 +3,7 @@
 
 [Back](README.md)
 
-## Plot orientation for part 1
-- [M] Introduction
-    - [D] Who are we?
-    - [E] Recipe -> Free Software -> Linux -> LuXeria
-    - [E] What is LuXeria
-- [E] Founding
-    - Computer Science Courses 2010
-    - Association (inspired by LugBE)
-    - Location
-- [E] Evolution
-    - Hype
-    - Decay
-    - Reorientation
-- [E] Members
-    - new members -> new topics
-    - exploring beyond Linux
-        - professions
-        - age
-        - degrees (apprentice, student, professional)
-    - introducing electronics and laboratories
-
-## Part 1
-
-### Introduction (pie scene)
+## Introduction (pie scene)
 - ... and here we have a problem!
 - my pie, my recipe, not allowed to change
 - 4 freedoms
@@ -51,7 +28,7 @@
 - Distributed and Community driven Development
 - Community -> LuXeria
 
-### Founding
+## Founding
 - Computer Science Courses 2010
     - subject linux -> special interest/talents
     - experienced lecturer
@@ -60,13 +37,13 @@
     - inspired by LugBE
     - course location
 
-### Evolution
+## Evolution
 - hype during semester and scholarship
 - 2011 decay
 - Reorientation 
     - exploring beyond linux and computers
 
-### Members
+## Members
 - 2012 new members
     - introducing microcontrollers
     - introducing electronics
@@ -83,9 +60,3 @@
         - student
         - professional
 - introducing laboratories and hardware projects
-
-
-
-
-
-
