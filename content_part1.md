@@ -15,7 +15,7 @@
     - MIT AI LAB
     - lived hacker philosophy (unlimited and free flow of information)
     - lack of freedom in business-cases
-    - protest, conciencious reason
+    - protest, conscientious reason
     - 1983 founding GNU Project
 - Linus Torvalds
     - Helsinki, 1991, Linux
