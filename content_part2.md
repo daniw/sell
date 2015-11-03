@@ -19,7 +19,8 @@ Daniel
     - [E] Oh, no, that's not allowed
     - [E] And you can of course eat the cake
     - [E] But you are not allowed to share it with someone else
-    - [D] that's weird
+    - [D] isn't that weird?
+
 ## Interaction / Communication
 - Weekly meeting
     - meet-up in a physical place
@@ -27,6 +28,7 @@ Daniel
     - order dinner
     - talks
     - workshops
+    - LuxLab
 - Chat
     - IRC
 - E-Mail
