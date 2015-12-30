@@ -4,8 +4,20 @@
 [Back](README.md)
 
 ## Introduction (pie scene)
-- ... and here we have a problem!
-- my pie, my recipe, not allowed to change
+- pie
+    - [E] Would you like to have my famous birthday cake?
+    - [D] Thank you
+    - [D] use for christmas
+    - [E] No, it's a birthday cake, you must not use it for  christmas
+    - [D] Then i will add some powdered sugar and remove the candles
+    - [E] No! you are not allowed to change the recipe
+    - [D] Then i will bring it to a birthday party tomorrow
+    - [E] Your birthday party?
+    - [D] No, a friend of mine
+    - [E] Oh, no, that's not allowed
+    - [E] And you can of course eat the cake
+    - [E] But you are not allowed to share it with someone else
+    - [D] that's weird
 - 4 freedoms
     - use for any purpose
     - perform changes
