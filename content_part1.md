@@ -12,19 +12,12 @@
     - redistribute (original)
     - distribute (modified)
 - Richard Stallman
-    - MIT AI LAB
-    - lived hacker philosophy (unlimited and free flow of information)
     - lack of freedom in business-cases
     - protest, conscientious reason
     - 1983 founding GNU Project
 - Linus Torvalds
     - Helsinki, 1991, Linux
     - Operating System (runs user-app programs)
-    - not free-software
-- GNU finds Linux in 1992
-    - GNU: many user-app programs, no Operating System
-    - Linux goes free
-    - merge of GNU and Linux to a full system for users
 - Distributed and Community driven Development
 - Community -> LuXeria
 
