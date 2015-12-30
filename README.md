@@ -8,3 +8,4 @@ SELL - Self directed english language learning
 * [Presentation Planning](pres_planning.md)
 * [Content Part 1](content_part1.md)
 * [Content Part 2](content_part2.md)
+* [Remarks](remarks.md)
